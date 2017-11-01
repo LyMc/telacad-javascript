@@ -2,7 +2,7 @@
 
 Un curs detaliat despre CSS.
 
-[Aici găsiți ce s-a lucrat la curs.](/assets/main.css)
+Aici găsiți ce s-a lucrat la curs.
 
 Resurse utile:
 
@@ -12,3 +12,4 @@ Resurse utile:
 * [alt mod pentru fanii tower defense](http://www.flexboxdefense.com/)
 
 [Formularul de feedback](https://victorlocoman.typeform.com/to/ClOi6C)
+
