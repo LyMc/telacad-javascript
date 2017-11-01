@@ -10,5 +10,5 @@ Tema acestui curs constă în a crea o pagină de html care să aibă un header,
 * centrați conținutul într-un container
 * nu folosiți fișiere externe \(doar css, nu bootstrap, nu alte biblioteci\), vrem să învățăm
 
-Adăugați toate fișierele legate de temă într-o arhivă cu numele vostru \(ex. VictorLocomanTema2.zip\). Urcați această arhivă [aici](https://www.dropbox.com/request/MyqR5vqUNRbm91sLSODf).
+La urmă urcați tema [aici](https://www.dropbox.com/request/MyqR5vqUNRbm91sLSODf) \(dacă aveți o structură anume de directoare / fișiere, vă recomand să arhivați tema înainte să o trimiteți, altfel, puteți urca mai multe fișiere direct acolo\).
 
