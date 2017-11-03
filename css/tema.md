@@ -12,3 +12,5 @@ Tema acestui curs constă în a crea o pagină de html care să aibă un header,
 
 La urmă urcați tema [aici](https://www.dropbox.com/request/MyqR5vqUNRbm91sLSODf).
 
+Nu uitați de [feedback](https://victorlocoman.typeform.com/to/ClOi6C).
+
