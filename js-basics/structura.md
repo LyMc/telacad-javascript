@@ -1,5 +1,12 @@
 # JS Basics - Structura
 
+* [Despre curs](#despre-curs)
+* [Temele](#temele)
+* [Introducere](#introducere)
+* [Date și operații primitive](#date-și-operații-primitive)
+* [Funcții și obiecte](#funcții-și-obiecte)
+* [DOM](#dom)
+
 ## Despre curs
 
 * Platforma nouă, cum ne ajută să ne organizăm
