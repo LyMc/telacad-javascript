@@ -6,5 +6,5 @@
 * [CSS](css.md)
   * [Tema](css/tema.md)
 * [JS Basics](js-basics.md)
-  * Structura
+  * [Structura](js-basics/structura.md)
 
