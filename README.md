@@ -4,6 +4,8 @@ Acest curs se ține săptămânal la Telecom Academy în perioada 21 octombrie 2
 
 Conținutul acestei pagini este actualizat în continuu. Aici veți găsi materialul predat la curs, resurse suplimentare și temele.
 
+Informațiile sunt publicate prin [www.gitbook.com](https://www.gitbook.com/), vă recomand să vă faceți cont acolo pentru a putea adăuga comentarii și a trece unele discuții aici.
+
 ## Structura cursului
 
 1. [HTML](/html.md)
