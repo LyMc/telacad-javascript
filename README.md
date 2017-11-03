@@ -13,6 +13,20 @@ Informațiile sunt publicate prin [www.gitbook.com](https://www.gitbook.com/), v
 2. [CSS](/css.md)
    * [Tema](/css/tema.md)
 
+## Program curs
+
+| Ora | Activitatea |
+| :--- | :--- |
+| 8:30 | Se deschide sala. Putem să discutăm până începe cursul. |
+| 9:00 | Începem cursul. Prima parte |
+| 9:50 | Pauză |
+| 10:00 | Partea a doua |
+| 10:50 | Pauză |
+| 11:00 | Partea a treia |
+| 11:50 | Pauză |
+| 12:00 | Partea a patra |
+| 13:00 | Încheiem cursul. Putem să continuăm discuțiile |
+
 ## Punctaj
 
 Cursurile se termină cu o temă care poate fi realizată timp de o săptămână și valorează 5 puncte.
