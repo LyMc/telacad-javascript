@@ -2,7 +2,7 @@
 
 Un curs detaliat despre CSS.
 
-```
+```js
 <!DOCTYPE html>
 <html>
     <head>
@@ -14,27 +14,27 @@ Un curs detaliat despre CSS.
     </head>
     <body>      
        <h2 class="contact-email" title="Scrie-mi" contenteditable>victor@locoman.ro</h2>
-       
+
        <p><input type="text" name="Nume" placeholder="Nume"></p>
        <p><input type="email" name="Nume" placeholder="Parola"></p>
-       
+
        <h2 class="titlu" id="titlu-css">CSS</h2>
        <section>
            <h3 class="sub-titlu">Cascading</h3>
            <h3 class="sub-titlu">Style</h3>
            <h3 class="sub-titlu">Sheets</h3>
        </section>
-       
+
        <h2 class="titlu">CSS <em>Levels</em></h2>
-       
+
        <h3>Lv 1</h3>
        <h3>Lv 2</h3>
        <h3>Lv 3</h3>
-       
+
        <em>Levels</em>
-       
+
        <h2>Selectori</h2>
-       
+
        <p>
             tag {
                 proprietate: valoare;
@@ -42,12 +42,12 @@ Un curs detaliat despre CSS.
             .clasa-mea {}
             #id-ul-meu {}
        </p>
-       
+
        <section>
            <h2>Box Model</h2>
            <img src="images/download.jpg" alt="Lorem Ipsum" class="imaginea-mea">
        </section>
-       
+
        <section>
            <h2>Border Box vs Content Box</h2>
            <div class="box">
@@ -58,7 +58,7 @@ Un curs detaliat despre CSS.
                <div class="clear"></div>
            </div>
        </section>
-       
+
        <section>
            <h2>Tema</h2>
            <ul>
@@ -72,7 +72,7 @@ Un curs detaliat despre CSS.
                <li>nu folositi fisiere externe (doar css)</li>
            </ul>
        </section>
-        
+
     </body>
 </html>
 ```
