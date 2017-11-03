@@ -3,6 +3,7 @@
 Un curs detaliat despre CSS.
 
 ### index.htm
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -79,13 +80,12 @@ Un curs detaliat despre CSS.
 ```
 
 ### main.css
+
 ```css
+/* puțină stilizare de la brackets, o vom păstra */
 html {
     background: #e6e9e9;
-    background-image: linear-gradient(270deg, rgb(230, 233, 233) 0%, rgb(216, 221, 221) 100%);
-    -webkit-font-smoothing: antialiased;
 }
-
 body {
     background: #fff;
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
@@ -97,52 +97,19 @@ body {
     max-width: 800px;
     padding: 2em 2em 4em;
 }
-
 h1, h2, h3, h4, h5, h6 {
     color: #222;
     font-weight: 600;
     line-height: 1.3;
 }
-
-h2 {
-    margin-top: 1.3em;
-}
-
 a {
     color: #0083e8;
 }
-
 b, strong {
     font-weight: 600;
 }
 
-samp {
-    display: none;
-}
-
-img {
-    animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
-    background: transparent;
-    border: 10px solid rgba(0, 0, 0, 0.12);
-    border-radius: 4px;
-    display: block;
-    margin: 1.3em auto;
-    max-width: 95%;
-}
-
-@keyframes colorize {
-    0% {
-        -webkit-filter: grayscale(100%);
-        filter: grayscale(100%);
-    }
-    100% {
-        -webkit-filter: grayscale(0%);
-        filter: grayscale(0%);
-    }
-}
-
-
-
+/* de aici venim cu modificările noastre */
 .contact-email:hover {
     color: blueviolet;
 }
@@ -202,13 +169,13 @@ h3:nth-last-child(1) {
 .box {
     background-color: beige;
     width: 800px;
-    /*overflow: hidden; /* fixeaza problema cu float */
+    /*overflow: hidden; fixeaza problema cu float */
     position: relative;
 }
 .item {
     width: 25%;
     height: 200px;
-/*    float: left;*/
+    /*float: left;*/
 }
 .clear {
     clear: both;
@@ -220,10 +187,10 @@ h3:nth-last-child(1) {
     color: #fff;
 }
 .item.image {
-/*    position: absolute;*/
+    /*position: absolute;*/
     top: 100px;
     left: 100px;
-/*    z-index: 10;*/
+    /*z-index: 10;*/
 }
 .item.image .img {
     width: 100%;
@@ -235,7 +202,7 @@ h3:nth-last-child(1) {
 .item.text {
     padding: 10px;
     border: 1px solid;
-/*    width: calc(25% - 22px);*/
+    /*width: calc(25% - 22px);*/
     position: relative;
 }
 
@@ -245,13 +212,11 @@ h3:nth-last-child(1) {
     box-sizing: border-box;
 }
 
-
 .box {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 400px;
-
 /*
     position: absolute;
     left: 0;
