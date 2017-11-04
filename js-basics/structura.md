@@ -73,6 +73,11 @@
   * Inline
   * External
     * async, defer, http2
+    
++ Shortcuts:
+ + F12
+ + Ctrl + Shift + i
+ + Ctrl + Shift + j
 
 ### Specificații importante în JS
 
