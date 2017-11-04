@@ -30,6 +30,35 @@
   * ul &gt; li
 * Soluții
 
+```html
+<div>
+    <label for="nume">
+        Deschide menu
+    </label>
+    <input id="nume" type="checkbox" class="checkbox">
+    <div class="menu">Acesta este meniul meu.</div>
+
+    <a href="screenshots" target="_blank">Deschide screenshots</a>
+</div>
+
+<form action="http://www.telacad.ro" method="post">
+    <input type="text" value="telacad" name="from">
+    <button type="submit"><strong>Trimite</strong></button>
+</form>
+```
+
+```css
+.menu {
+	display: none;
+}
+.checkbox:checked + .menu {
+	display: block;
+}
+.checkbox {
+	opacity: 0;
+}
+```
+
 ---
 
 ## Introducere
