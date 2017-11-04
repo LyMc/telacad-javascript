@@ -8,4 +8,5 @@
 * [JS Basics](js-basics.md)
   * [Structura](js-basics/structura.md)
   * [Tema](js-basics/tema.md)
+  * [Cursul](js-basics/cursul.md)
 
