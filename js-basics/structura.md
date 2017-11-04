@@ -18,6 +18,16 @@
 ## Temele
 
 * Greșeli des întâlnite
+  * &lt;/tag&gt;
+  * label for
+  * input submit
+  * spații în atribute
+  * html este despre conținut \(bgcolor, align\) &lt;font&gt;
+  * identarea
+  * &lt;br&gt; &lt;/br&gt; &lt;li&gt;&lt;/li&gt;&lt;br&gt;
+  * form action method
+  * a target
+  * ul &gt; li
 * Soluții
 
 ---
