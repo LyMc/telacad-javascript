@@ -1,12 +1,13 @@
 # Tema JS Basics
 
 O pagina a unui magazin online cu cateva produse.
-+ Header - numele magazinului, imagine, menu (nav)
-+ Main - o lista de produse
-+ article - nume, pret, poza (bonus / provocare: folositi imagini de marimi diferite, centrate pe un dreptunghi), buton de adauga in cos
-+ aside - lista de categorii
-+ footer - abonare newsletter, despre magazin
-+ responsive (`ctrl + shift + m`)
+
+* Header - numele magazinului, imagine, menu \(nav\)
+* Main - o lista de produse
+* article - nume, pret, poza \(bonus / provocare: folositi imagini de marimi diferite, centrate pe un dreptunghi\), buton de adauga in cos
+* aside - lista de categorii
+* footer - abonare newsletter, despre magazin
+* responsive \(`ctrl + shift + m`\)
 
 ```html
 <main class="container">
@@ -14,6 +15,7 @@ O pagina a unui magazin online cu cateva produse.
  <aside class="right"></aside>
 </main>
 ```
+
 ```css
 .container {
  display: flex;
@@ -39,9 +41,10 @@ O pagina a unui magazin online cu cateva produse.
  }
 }
 ```
-+ flexbox
 
+* flexbox
 
-Urcati tema aici!
+Urcati tema [aici](https://www.dropbox.com/request/Ewuj7NLBVJiTQk5Ig56C)!
 
-Nu uitati de feedback :)
+Nu uitati de feedback :\)
+
