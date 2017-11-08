@@ -46,5 +46,5 @@ O pagina a unui magazin online cu cateva produse.
 
 Urcati tema [aici](https://www.dropbox.com/request/Ewuj7NLBVJiTQk5Ig56C)!
 
-Nu uitati de feedback :\)
+Nu uitati de [feedback](https://victorlocoman.typeform.com/to/ST5Z1U) :\)
 
