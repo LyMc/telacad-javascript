@@ -5,9 +5,10 @@ Cod
 <html>
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Let's code</title>
     <link href="style.css" type="text/css" rel="stylesheet">
-    <script href="script.js"></script>
+    <script src="script.js"></script>
 </head>
 <body>
     <div class="container">
@@ -78,12 +79,14 @@ Cod
                 </ul>
             </aside>
         </div>
-        <footer class="site-footer">
-            <section>
+    </div>
+    <div class="footer-container">
+        <footer class="container site-footer">
+            <section class="about-us">
                 <h3>Despre noi</h3>
                 <p>Scrie cod &gt; vinde cod &gt; profit</p>
             </section>
-            <section>
+            <section class="newsletter">
                 <h3>Newsletter</h3>
                 <form action="subscribe.html" method="post">
                     <input type="email">
@@ -110,8 +113,9 @@ body {
 }
 
 .container {
-    width: 800px;
+    max-width: 800px;
     margin: 0 auto;
+    padding: 0 15px;
 }
 
 /* Site header */
@@ -122,6 +126,7 @@ body {
     justify-content: space-between;
     align-items: center;
     transition: background .4s ease;
+    flex-wrap: wrap;
 }
 .site-header:hover {
     background-image: url("http://lorempixel.com/400/200/technics");
@@ -149,7 +154,14 @@ body {
 /* Products */
 .main-container {
     display: flex;
+    align-items: flex-start;
     justify-content: space-between;
+    min-height: calc(100vh - 157px);
+}
+@media (max-width: 600px) {
+    .main-container {
+        flex-wrap: wrap;
+    }
 }
 .products {
     width: 100%;
@@ -157,15 +169,28 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
 }
+@media (min-width: 601px) {
+    .products {
+        order: 2;
+    }
+    .categories {
+        order: 1;
+    }
+}
 .products-title {
     width: 100%;
 }
 .product {
-    width: calc(50% - 7.5px);
+    width: 100%;
 /*    border: 1px solid #000;*/
     margin-bottom: 15px;
     background-color: #e0f7fa;
     padding: 10px;
+}
+@media (min-width: 361px) {
+    .product {
+        width: calc(50% - 7.5px);
+    }
 }
 .product-title {
     text-align: center;
@@ -218,6 +243,33 @@ body {
 .category:hover {
     text-decoration: underline;
 }
+
+/* footer */
+.footer-container {
+    background-color: #cfd8dc;
+}
+.site-footer {
+    display: flex;
+    justify-content: space-between;
+}
+```
+
+script.js
+
+```js
+/* eslint-disable */
+function myApp() {
+//    var button = document.querySelector('.add-to-cart')
+    var button = document.querySelectorAll('.add-to-cart')
+    for (var i = 0; i < button.length; i++) {
+        button[i].addEventListener('click', function() {
+            this.style.color = 'red'
+        })
+    }
+}
+
+window.addEventListener('load', myApp)
+
 ```
 
 
