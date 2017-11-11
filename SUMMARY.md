@@ -10,4 +10,5 @@
   * [Tema](js-basics/tema.md)
   * [Cursul](js-basics/cursul.md)
 * [Let's code](lets-code.md)
+  * [Cursul](lets-code/cursul.md)
 
