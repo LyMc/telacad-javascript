@@ -12,4 +12,6 @@
 * [Let's code](lets-code.md)
   * [Cursul](lets-code/cursul.md)
 * [My Blog](my-blog.md)
+* [Todo App](todo-app.md)
+  * [Cursul](todo-app/cursul.md)
 
