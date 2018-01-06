@@ -17,4 +17,5 @@
 * [Tic Tac Toe](tic-tac-toe.md)
   * [Cursul](tic-tac-toe/cursul.md)
 * [How Web Works](how-web-works.md)
+* [JS Objects](js-objects.md)
 
