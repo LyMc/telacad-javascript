@@ -19,4 +19,5 @@
 * [How Web Works](how-web-works.md)
 * [JS Objects](js-objects.md)
   * [Cursul](js-objects/cursul.md)
+* [Recapitulare](recapitulare.md)
 
