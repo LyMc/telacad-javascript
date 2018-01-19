@@ -21,4 +21,5 @@
   * [Cursul](js-objects/cursul.md)
 * [Recapitulare](recapitulare.md)
 * [Freelancer Calendar](freelancer-calendar.md)
+* [Work Tracking](work-tracking.md)
 
