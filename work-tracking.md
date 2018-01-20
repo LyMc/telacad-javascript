@@ -1,6 +1,8 @@
 # Work Tracking
 Examenul final
 
+Urcați fișierele aici: https://www.dropbox.com/request/Ep9pus8PXC26eY96gK71
+
 Resurse:
 - video
     - fun fun funciton https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
